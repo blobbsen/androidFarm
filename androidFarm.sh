@@ -1,4 +1,7 @@
 #!/bin/bash
+# author: andre@blobb.me
+# version: beta
+# date: 03/05/2015
 
 # custom variables, must change
 jenkinsMaster="http://192.168.1.101:8080"
